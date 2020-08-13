@@ -1,7 +1,7 @@
 # AdaptNet
 An adapt transform method for CT HU values. It could search the most approriate window level and window width for the current task.
 ###### Illustration
-
+![image](https://github.com/LWHYC/AdaptNet/blob/master/Adapt_trans.png)
 
 ###### Example Code
 ```
