@@ -1,6 +1,9 @@
 # AdaptNet
 An adapt transform method for CT HU values. It could search the most approriate window level and window width for the current task.
-###### Example
+###### Illustration
+
+
+###### Example Code
 ```
 from Adapt_transform import Adapt_transform2
 
